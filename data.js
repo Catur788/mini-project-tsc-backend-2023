@@ -1,7 +1,10 @@
+
 const books = [
-    { id: 1, title: 'Book 10', author: 'Author 1' },
-    { id: 2, title: 'Book 20', author: 'Author 3' },
-    // ... Data buku lainnya
+    { id: 1, title: 'Avenger', author: 'Catur' },
+    { id: 2, title: 'Avatar', author: 'Suharto' },
+    { id: 3, title: 'Upin&Ipin', author: 'Adit'},
+    { id: 4, title: 'Iron Man', author: 'Mursid'},
+    { id: 5, title: 'Ultraman', author: 'Evan'},
   ];
   
   module.exports = { books };
